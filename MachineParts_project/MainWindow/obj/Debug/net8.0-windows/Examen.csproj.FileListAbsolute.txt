@@ -1,0 +1,44 @@
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\bin\Debug\net8.0-windows\Examen.exe
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\bin\Debug\net8.0-windows\Examen.deps.json
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\bin\Debug\net8.0-windows\Examen.runtimeconfig.json
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\bin\Debug\net8.0-windows\Examen.dll
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\bin\Debug\net8.0-windows\Examen.pdb
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\bin\Debug\net8.0-windows\examclasslib.dll
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\bin\Debug\net8.0-windows\examclasslib.pdb
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen_MarkupCompile.cache
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen_MarkupCompile.lref
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.g.resources
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.dll
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\refint\Examen.dll
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.pdb
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\Examen.genruntimeconfig.cache
+C:\Users\Gebruiker\Documents\1)_Nieuwe_map\4) hoge school -- Applied A.I\Applied A.I -- 3de jaar\1) C#.net Development\Examen\MainWindow\obj\Debug\net8.0-windows\ref\Examen.dll
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen.dll
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\refint\Examen.dll
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen.pdb
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen_MarkupCompile.cache
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen_MarkupCompile.lref
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\bin\Debug\net8.0-windows\Examen.exe
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\bin\Debug\net8.0-windows\Examen.deps.json
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\bin\Debug\net8.0-windows\Examen.runtimeconfig.json
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\bin\Debug\net8.0-windows\Examen.dll
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\bin\Debug\net8.0-windows\Examen.pdb
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen.g.resources
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen.AssemblyInfoInputs.cache
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen.AssemblyInfo.cs
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen.csproj.CoreCompileInputs.cache
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\Examen.genruntimeconfig.cache
+C:\Users\vbtan\Desktop\ExamenNovember\MainWindow\obj\Debug\net8.0-windows\ref\Examen.dll

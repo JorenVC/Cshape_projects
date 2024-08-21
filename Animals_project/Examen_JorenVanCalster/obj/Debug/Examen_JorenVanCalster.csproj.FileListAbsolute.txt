@@ -1,0 +1,15 @@
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\bin\Debug\Examen_JorenVanCalster.exe.config
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\bin\Debug\Examen_JorenVanCalster.exe
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\bin\Debug\Examen_JorenVanCalster.pdb
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\Examen_JorenVanCalster.csproj.AssemblyReference.cache
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\MainWindow.g.cs
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\App.g.cs
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\Examen_JorenVanCalster_MarkupCompile.cache
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\Examen_JorenVanCalster_MarkupCompile.lref
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\MainWindow.baml
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\Examen_JorenVanCalster.g.resources
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\Examen_JorenVanCalster.Properties.Resources.resources
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\Examen_JorenVanCalster.csproj.GenerateResource.cache
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\Examen_JorenVanCalster.csproj.CoreCompileInputs.cache
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\Examen_JorenVanCalster.exe
+C:\Users\vbtan\Desktop\aug_examen\Examen_JorenVanCalster\obj\Debug\Examen_JorenVanCalster.pdb

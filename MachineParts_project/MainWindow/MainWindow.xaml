@@ -1,0 +1,78 @@
+﻿<Window x:Class="Examen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Examen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+      <StackPanel Orientation="Vertical" Margin="5">
+        <StackPanel Orientation="Horizontal" Margin="5">
+          <Label Content="Machine Part" Width="100"/>
+                <Button Name="AddCubeButton" Command="{Binding MyButtonAddCubeButton}" >Create Cube</Button>
+                <Button Name="AddSphereButton" Command = "{Binding MyButtonAddSphereButton}">Create Sphere</Button>
+                <Button Name="AddCilinderButton" Command = "{Binding MyButtonAddCilinderButton}">Create Cilinder</Button>
+          <Label Name ="PartDetails" Content="Part Details"/>
+          <TextBox x:Name="Input" Width="200" Text="{Binding InputVars}"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+          <Label Content="Current Action" Width="100"/>
+                <Label x:Name="CurrentAct" Content="{Binding CurrentAct}"/>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Content="Parts" Width="100"/>
+                <ListView Margin="10" Name="Parts" ItemsSource="{Binding ShowedListOfMachineParts}" SelectedItem="{Binding SelectionChanged}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn x:Name="Descr" Width="160" Header="Description" DisplayMemberBinding="{Binding Description}"/>
+                        <GridViewColumn x:Name="Volume" Width="160" Header="Volume" DisplayMemberBinding="{Binding Volume}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+          <Label Content="Info" Width="100"/>
+                <Button Name="ShowInfoButton" Command="{Binding MyButtonShowInfoButton}" > Show Part Info </Button>
+                <Button Name="CalculatePriceButton" Command="{Binding MyButtonCalculatePriceButton}" > Calculate Price </Button>
+                <Button Name="CalculateTotalVolumeButton" Command="{Binding MyButtonCalculateTotalVolumeButton}" > Calculate Total Volume </Button>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+          <Label Content="Order list" Width="100"/>
+                <Button Name="OrderAscButton" Command="{Binding MyButtonOrderAscButton}" >Order ASC</Button>
+                <Button Name="OrderDescButton" Command="{Binding MyButtonOrderDescButton}">Order DESC</Button>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+          <Label Content="Filter list" Width="100"/>
+                <Button Name="ShowAllButton" Command = "{Binding MyButtonShowAllButton}" >All</Button>
+                <Button Name="VolumeOver1000Button" Command = "{Binding MyButtonVolumeOver1000Button}" >Volume over 1000</Button>
+                <Button Name="VolumeUnder800Button" Command = "{Binding MyButtonVolumeUnder800Button}">Volume under 800</Button>
+                <Button Name="NameContainsJButton" Command = "{Binding MyButtonNameContainsJButton}">Name contains J</Button>
+                <Button Name="NameContainsPButton" Command = "{Binding MyButtonNameContainsPButton}">Name contains P</Button>
+                <Button Name="CubeOver1000Button" Command = "{Binding MyButtonCubeOver1000Button}">Cubes with volume Over 1000</Button>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+          <Label Content="Search" Width="100"/>
+                <TextBox Name="InputSearch" Text="{Binding InputSearch}" Width="200"/>
+                <Button Name="SearchButton" Command = "{Binding MyButtonSearchButton}">Search</Button>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+          <Label Content="Save list" Width="100"/>
+                <Button Name="UploadButton" Command = "{Binding MyButtonUploadButton}">Upload</Button>
+                <Button Name="SaveButton" Command = "{Binding MyButtonSaveButton}">Save to file</Button>
+        </StackPanel>
+
+      </StackPanel>
+    </Grid>
+</Window>

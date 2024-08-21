@@ -1,0 +1,5 @@
+Part Details: Name: testj, Category: Cube, Description: cube j, Volume: 1111, Price: 2
+Part Details: Name: test, Category: Sphere, Description: Sphere , Volume: 700, Price: 2
+Part Details: Name: testj, Category: Cilinder, Description: Cilinder j, Volume: 2000, Price: 2
+Part Details: Name: test, Category: Cilinder, Description: Cilinder , Volume: 801, Price: 2
+Part Details: Name: testp, Category: Cube, Description: cubep, Volume: 2, Price: 2

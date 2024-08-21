@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|c:\\users\\vbtan\\desktop\\oefeningen\\mainwindow\\models\\machineparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|solutionrelative:models\\machineparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|c:\\users\\vbtan\\desktop\\oefeningen\\mainwindow\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|solutionrelative:models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|c:\\users\\vbtan\\desktop\\oefeningen\\mainwindow\\viewmodels\\viewmodel_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|solutionrelative:viewmodels\\viewmodel_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|c:\\users\\vbtan\\desktop\\oefeningen\\mainwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|c:\\users\\vbtan\\desktop\\oefeningen\\mainwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CC3DB57-1D70-468B-8F53-F2D2BDEBAB51}|Examen.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-16T18:17:01.293Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:17:06.719Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel_Main.cs",
+              "DocumentMoniker": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\ViewModels\\ViewModel_Main.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModel_Main.cs",
+              "ToolTip": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\ViewModels\\ViewModel_Main.cs",
+              "RelativeToolTip": "ViewModels\\ViewModel_Main.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAArwGQAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:22:54.361Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MachineParts.cs",
+              "DocumentMoniker": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\Models\\MachineParts.cs",
+              "RelativeDocumentMoniker": "Models\\MachineParts.cs",
+              "ToolTip": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\Models\\MachineParts.cs",
+              "RelativeToolTip": "Models\\MachineParts.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:24:44.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\Models\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Models\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\vbtan\\Desktop\\oefeningen\\MainWindow\\Models\\RelayCommand.cs",
+              "RelativeToolTip": "Models\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:37:41.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
